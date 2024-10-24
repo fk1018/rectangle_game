@@ -1,5 +1,4 @@
-
-# you are creating a rectangle builder that returns the total creates sum of all the rectangles you can build
+# you are creating a rectangle builder that returns the sum of all the rectangles you can create
 # you are given an array of side lengths
 # each side can be used for only one rectangle
 # it takes two sides of the same length to make a pair
